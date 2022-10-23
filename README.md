@@ -16,3 +16,5 @@
 12. Инструкция по созданию pull request
 13. Книги и полезные ссылки по изучению git.
 14. Альтернативные системы контроля версий.
+
+Ответ на 14-й вопрос: RCS, CVS, Subversion, Aegis, Monoton, Git, Bazaar, Arch, Perforce, Mercurial, TFS. RCS
